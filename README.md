@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Rennan Campos — Robot Designer">
+  <img src="./assets/Banner.png" width="100%" alt="Rennan Campos — Robot Designer">
 </p>
 
 <h1 align="center">RENNAN CAMPOS</h1>
