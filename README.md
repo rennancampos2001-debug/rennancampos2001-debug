@@ -4,11 +4,11 @@
   <img src="./assets/Banner.png" width="100%">
 </p>
 
-#  Olá, eu sou o Rennan!
+Olá, eu sou o Rennan
 
-###  Robotics • CAD • Engineering • Programming
+Robot Designer @ FRC Team 9200 — Stardust
 
-**Robot Designer @ FRC Team 9200 — Stardust**
+Robotics • CAD • Engineering • Programming
 
 ![FRC](https://img.shields.io/badge/FRC-Team%209200%20Stardust-red?style=for-the-badge)
 ![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-CAD-0696D7?style=for-the-badge\&logo=autodesk)
@@ -16,42 +16,32 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
-</div>
+</div> 
 
 ---
 
-##  Sobre mim
+## About Me
 
-Sou estudante de tecnologia, apaixonado por **robótica, engenharia, projeto e programação**.
+I'm a technology student focused on robotics, mechanical design and engineering.
 
-Faço parte da **FRC Team 9200 — Stardust**, onde atuo principalmente como **projetista do robô**.
+I'm part of FRC Team 9200 — Stardust, where I work primarily as a Robot Designer, developing mechanical systems, CAD models and mechanisms for competitive robots.
 
-Na equipe, trabalho com **projeto mecânico, CAD, desenvolvimento de mecanismos e transformação de ideias em soluções reais para o robô**.
-
-Em 2026, participei da temporada que levou a Stardust ao **FIRST Championship**, em Houston, nos Estados Unidos.
-
-Essa experiência aumentou ainda mais meu interesse por engenharia e tecnologia e me motivou a continuar evoluindo também na área de **programação**, que pretendo explorar cada vez mais.
+My main interests are mechanical design, CAD, robotics and engineering problem-solving. I'm also expanding my programming skills in Python and Java, with the goal of combining mechanical engineering and software in robotics.
 
 ---
 
-#  FRC Team 9200 — Stardust
+## 🤖 FRC Team 9200 — Stardust
 
-###  2026 FIRST Championship
+### Robot Designer
 
-Em 2026, a Stardust chegou ao **FIRST Championship**, em Houston, Texas.
+I work primarily with robot design and mechanical development, using CAD to transform concepts into manufacturable and functional mechanisms.
 
-Participar dessa temporada foi uma das experiências mais importantes da minha trajetória na robótica.
+### 🏆 2026 FIRST Championship
 
-Durante essa jornada, pude vivenciar na prática:
-
-*  Desenvolvimento de robôs
-*  Projeto mecânico
-*  CAD
-*  Desenvolvimento de mecanismos
-*  Prototipagem
-*  Resolução de problemas
-*  Trabalho em equipe
-*  Competição internacional
+- Team: 9200 — Stardust
+- Location: Limeira, São Paulo, Brazil
+- Event: FIRST Championship 2026
+- Division: Curie
 
 ###  FIRST Championship — Houston 2026
 
@@ -59,6 +49,10 @@ Durante essa jornada, pude vivenciar na prática:
 **Location:** Limeira, São Paulo, Brazil
 **Event:** FIRST Championship 2026
 **Division:** Curie
+
+<p align="center">
+  <img src="./assets/robot-2026.jpg" width="85%">
+</p>
 
 ---
 
