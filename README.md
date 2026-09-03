@@ -1,544 +1,437 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=RENNAN+CAMPOS;ROBOT+DESIGNER;CAD+%7C+ROBOTICS+%7C+PROGRAMMING;FRC+TEAM+9200+%E2%80%94+STARDUST" alt="Typing SVG">
-
-<br>
-
-<img src="https://img.shields.io/badge/ROBOTICS-1F6FEB?style=for-the-badge&logo=robotframework&logoColor=white">
-<img src="https://img.shields.io/badge/CAD-555555?style=for-the-badge&logo=autodesk&logoColor=white">
-<img src="https://img.shields.io/badge/FRC-FF6F00?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/PROGRAMMING-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=RENNAN+CAMPOS;ROBOT+DESIGNER;CAD+%7C+ROBOTICS+%7C+ENGINEERING;FRC+TEAM+9200+%E2%80%94+STARDUST;MECHANICAL+DESIGN+%7C+PROGRAMMING" alt="Typing animation">
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=rennancampos2001-debug&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS">
+<img src="https://img.shields.io/badge/ROBOTICS-1F6FEB?style=for-the-badge">
+<img src="https://img.shields.io/badge/CAD-555555?style=for-the-badge">
+<img src="https://img.shields.io/badge/ENGINEERING-FF6F00?style=for-the-badge">
+<img src="https://img.shields.io/badge/PROGRAMMING-3776AB?style=for-the-badge">
 
 </div>
 
 ---
 
-# Rennan Campos
+## ✦ Sobre mim
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                    ROBOT DESIGNER                            ║
-║                                                              ║
-║        CAD  •  MECHANICAL DESIGN  •  ROBOTICS               ║
-║                                                              ║
-║             PROGRAMMING  •  ENGINEERING                     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+Olá! Eu sou **Rennan Campos**, estudante de tecnologia e apaixonado por transformar ideias em sistemas reais.
 
-I'm a technology student focused on **robotics, mechanical design, CAD and programming**.
+Minha trajetória está diretamente ligada à **robótica competitiva**, principalmente através da **FRC Team 9200 — Stardust**, onde atuo como **Robot Designer**, trabalhando com CAD, desenvolvimento mecânico e integração de sistemas.
 
-I am part of **FRC Team 9200 — Stardust**, where my main focus is robot design, mechanical development and CAD.
+Meu foco está na criação de mecanismos, desenvolvimento de projetos mecânicos e resolução de problemas de engenharia.
 
-I enjoy transforming ideas into real mechanisms, solving engineering problems and developing designs that can be **manufactured, assembled, tested and improved**.
+Ao mesmo tempo, venho desenvolvendo minhas habilidades em **programação**, principalmente com Python e Java, buscando unir software, engenharia e robótica.
 
-My goal is to combine **mechanical engineering, robotics and software** to create increasingly complete and efficient systems.
+> **Meu objetivo é transformar curiosidade em projetos que funcionam no mundo real.**
 
 ---
 
-# About Me
+## ✦ Abrir meu perfil em código
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```java
+public class RennanCampos {
 
-### Engineering
+    String name = "Rennan Campos";
 
-* Mechanical Design
-* CAD
-* 3D Modeling
-* Assemblies
-* Mechanism Development
-* Prototyping
-* Manufacturing
-* Robot Integration
+    String[] roles = {
+        "Robot Designer",
+        "CAD Designer",
+        "Robotics Student",
+        "Programmer"
+    };
 
-</td>
+    String team = "FRC Team 9200 — Stardust";
 
-<td width="50%" valign="top">
-
-### Programming
-
-* Python
-* Java
-* HTML
-* Git
-* GitHub
-* Software Development
-* Programming Logic
-
-</td>
-</tr>
-</table>
-
----
-
-# Who Am I?
-
-```python
-class RennanCampos:
-
-    name = "Rennan Campos"
-    role = "Robot Designer"
-    team = "FRC Team 9200 — Stardust"
-
-    focus = [
+    String[] interests = {
         "Robotics",
         "Mechanical Design",
         "CAD",
+        "Engineering",
         "Programming"
-    ]
+    };
 
-    software = [
+    String[] technologies = {
         "Autodesk Inventor",
         "SolidWorks",
-        "VS Code"
-    ]
-
-    languages = [
         "Python",
         "Java",
         "HTML"
-    ]
+    };
 
-    objective = "Engineering + Robotics + Software"
+    String mission =
+        "Transformar ideias em sistemas funcionais.";
 
-    def mission(self):
-        return "Turn ideas into functional systems."
+}
 ```
 
 ---
 
-# FRC Team 9200 — Stardust
+## ✦ Atualmente | ✦ Construindo
 
-<div align="center">
+| Atualmente                              | Construindo                          |
+| :-------------------------------------- | :----------------------------------- |
+| Estudante de tecnologia                 | Projetos de robótica                 |
+| Robot Designer — FRC 9200               | Desenvolvimento mecânico             |
+| Aprendendo Python                       | Projetos de programação              |
+| Aprendendo Java                         | Integração entre software e robótica |
+| Trabalhando com CAD                     | Sistemas cada vez mais complexos     |
+| Desenvolvendo experiência em engenharia | Meu portfólio técnico                |
 
-<img src="https://img.shields.io/badge/FRC%20TEAM-9200-FF6F00?style=for-the-badge">
-<img src="https://img.shields.io/badge/STARDUST-2026-58A6FF?style=for-the-badge">
+---
 
-</div>
+# ★ FRC Team 9200 — Stardust
 
-## Robot Designer
+## WE ARE ALL MADE OF STARDUST
 
-My main role in the team is focused on **robot design and mechanical development**.
+Faço parte da **FRC Team 9200 — Stardust**, uma equipe de robótica competitiva onde desenvolvo principalmente atividades relacionadas ao **design mecânico e CAD**.
 
-I use CAD to develop mechanisms, assemblies and solutions designed specifically for competitive robotics.
+Meu trabalho envolve transformar conceitos em mecanismos reais, pensando não apenas no modelo 3D, mas também em:
 
-### My Work
+* Funcionamento
+* Fabricação
+* Montagem
+* Resistência
+* Integração
+* Testes
+* Manutenção
+* Evolução do projeto
+
+### Minha função
 
 ```text
-CONCEPT
-   │
-   ▼
-DESIGN
-   │
-   ▼
+IDEIA
+  ↓
+CONCEITO
+  ↓
 CAD
-   │
-   ▼
-PROTOTYPE
-   │
-   ▼
-TEST
-   │
-   ▼
-ITERATE
-   │
-   ▼
-MANUFACTURE
-   │
-   ▼
-ROBOT
+  ↓
+PROTÓTIPO
+  ↓
+TESTE
+  ↓
+AJUSTES
+  ↓
+FABRICAÇÃO
+  ↓
+ROBÔ
 ```
 
-### Areas
+---
 
-* Mechanical Design
-* CAD Modeling
-* Mechanism Design
-* Robot Assemblies
-* Prototyping
-* Manufacturing-oriented Design
-* Mechanical Integration
-* Design Iteration
-* Engineering Documentation
+# ✦ 2026 — FIRST Championship
+
+| Categoria  | Informação                     |
+| :--------- | :----------------------------- |
+| Equipe     | **FRC Team 9200 — Stardust**   |
+| Temporada  | **2026**                       |
+| Regional   | **Limeira, São Paulo, Brasil** |
+| Campeonato | **FIRST Championship 2026**    |
+| Local      | **Houston, Texas, USA**        |
 
 ---
 
-# 2026 FIRST Championship
+# ✦ Constelação de conquistas
 
-<div align="center">
+|  Ano | Conquista                                            |
+| :--: | :--------------------------------------------------- |
+|   —  | Creativity Award — Regional Brazil / SESI Osasco     |
+|   —  | Creativity Award — Festival SESI de Educação         |
+| 2026 | Participação no ecossistema FRC Team 9200 — Stardust |
+| 2026 | FIRST Championship                                   |
 
-### FRC Team 9200 — Stardust
-
-|   CATEGORY   | INFORMATION                    |
-| :----------: | :----------------------------- |
-|     Team     | **FRC 9200 — Stardust**        |
-|    Season    | **2026**                       |
-|   Regional   | **Limeira, São Paulo, Brazil** |
-| Championship | **FIRST Championship 2026**    |
-|   Location   | **Houston, Texas, USA**        |
-
-</div>
+> Cada competição, projeto e desafio representa uma nova oportunidade de aprender, testar e melhorar.
 
 ---
 
-# Awards & Recognition
+# ✦ Projetos em órbita
 
-<div align="center">
+## Stardust 9200 — 2026 Robot
 
-<img src="https://img.shields.io/badge/CREATIVITY%20AWARD-REGIONAL%20BRAZIL%20%2F%20SESI%20OSASCO-F5C518?style=for-the-badge">
+**Robot Design • CAD • Mechanical Engineering • FRC**
 
-<br><br>
+Projeto relacionado ao desenvolvimento mecânico e design do robô da temporada 2026.
 
-<img src="https://img.shields.io/badge/CREATIVITY%20AWARD-FESTIVAL%20SESI%20DE%20EDUCAÇÃO-F5C518?style=for-the-badge">
+Principais áreas:
 
-</div>
+```text
+Mechanical Design
+CAD Modeling
+Mechanisms
+Assemblies
+Prototyping
+Manufacturing
+Robot Integration
+```
 
 ---
 
-# CAD & Mechanical Design
+## 2º Termo — SENAI
 
-<div align="center">
+**Academic Projects • HTML • Programming**
 
-<img src="https://skillicons.dev/icons?i=autocad" height="55">
+Repositório com atividades e materiais desenvolvidos durante o segundo termo.
 
-<br>
+### Disciplinas
+
+|  Pasta | Área                  |
+| :----: | :-------------------- |
+|  `BCD` | Banco de Dados        |
+| `LIMA` | Linguagem de Marcação |
+| `PBE1` | Programação           |
+
+[![2TERMO](https://img.shields.io/badge/ABRIR%202TERMO-181717?style=for-the-badge\&logo=github)](https://github.com/rennancampos2001-debug/2TERMO)
+
+---
+
+## 1º Termo
+
+**Academic Projects • Python**
+
+Repositório contendo materiais e atividades acadêmicas do primeiro termo.
+
+[![1TERMO](https://img.shields.io/badge/ABRIR%201TERMO-181717?style=for-the-badge\&logo=github)](https://github.com/rennancampos2001-debug/1TERMO)
+
+---
+
+## Meu Primeiro Commit
+
+**Java • Programming**
+
+Um dos primeiros projetos publicados no GitHub durante minha jornada de programação.
+
+[![PROJECT](https://img.shields.io/badge/ABRIR%20PROJETO-181717?style=for-the-badge\&logo=github)](https://github.com/rennancampos2001-debug/meu-primeiro-commit)
+
+---
+
+# ✦ Arsenal tecnológico
+
+## CAD & Mechanical Design
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Autodesk%20Inventor-000000?style=for-the-badge&logo=autodesk&logoColor=white">
+
 <img src="https://img.shields.io/badge/SolidWorks-E31837?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
 
-</div>
+</p>
 
-### Design Philosophy
+**Foco:**
 
-> A good design is not only a model that looks good.
->
-> It needs to be **manufacturable, functional, reliable, testable and easy to improve**.
-
-### Design Process
-
-```text
-     IDEA
-      │
-      ▼
-  SKETCHING
-      │
-      ▼
-  3D MODEL
-      │
-      ▼
-  ASSEMBLY
-      │
-      ▼
-  SIMULATION / TEST
-      │
-      ▼
-  PROTOTYPE
-      │
-      ▼
- MANUFACTURING
-      │
-      ▼
-   ROBOT
-```
+`3D Modeling` `Assemblies` `Mechanisms` `Prototyping` `Manufacturing` `Robot Design`
 
 ---
 
-# Programming
+## Programming
 
-I'm expanding my programming skills with a focus on **software development and robotics**.
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,html,git,github,vscode" />
-
-</div>
-
-### Current Focus
-
-```text
-Python
-   │
-   ├── Programming Logic
-   ├── Automation
-   └── Robotics
-
-Java
-   │
-   ├── Object-Oriented Programming
-   ├── Algorithms
-   └── Software Development
-
-HTML
-   │
-   ├── Web Structure
-   └── Front-End
-```
-
----
-
-# My Academic Journey
-
-My GitHub also documents my progression through my software and technology studies.
-
-<div align="center">
-
-```text
-1º TERMO
-    │
-    ▼
-Programming
-    │
-    ▼
-2º TERMO
-    │
-    ├───────────────┐
-    ▼               ▼
-Banco de Dados   Linguagem
-    │             de Marcação
-    │               │
-    └───────┬───────┘
-            ▼
-       Programação
-            │
-            ▼
-     Software + Robotics
-```
-
-</div>
-
----
-
-# Academic Repositories
-
-### 1º Termo
-
-Repository containing academic material and projects from the first term.
-
-[![1TERMO](https://img.shields.io/badge/VIEW%20REPOSITORY-1TERMO-181717?style=for-the-badge\&logo=github)](https://github.com/rennancampos2001-debug/1TERMO)
-
----
-
-### 2º Termo
-
-Repository containing materials, exercises and projects from the second term.
-
-Current structure:
-
-```text
-2TERMO
-│
-├── BCD
-│   └── Banco de Dados
-│
-├── LIMA
-│   └── Linguagem de Marcação
-│
-└── PBE1
-    └── Programação
-```
-
-[![2TERMO](https://img.shields.io/badge/VIEW%20REPOSITORY-2TERMO-181717?style=for-the-badge\&logo=github)](https://github.com/rennancampos2001-debug/2TERMO)
-
----
-
-# Featured Projects
-
-<div align="center">
-
-### STARDUST 9200 — 2026
-
-**Mechanical Design • CAD • FRC**
-
-Development and mechanical design of the 2026 competition robot.
-
-<br>
-
-### ROBOTICS DESIGN
-
-**Mechanisms • Assemblies • Prototyping**
-
-Mechanical studies and designs focused on competitive robotics.
-
-<br>
-
-### SOFTWARE DEVELOPMENT
-
-**Python • Java • HTML**
-
-Academic and personal programming projects.
-
-</div>
-
----
-
-# Tech Stack
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### CAD
-
-<img src="https://skillicons.dev/icons?i=autocad" />
-
-<br><br>
-
-Autodesk Inventor
-SolidWorks
-3D Modeling
-Assemblies
-
-</td>
-
-<td align="center" width="33%">
-
-### CODE
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,html" />
 
-<br><br>
+</p>
 
-Python
-Java
-HTML
-Programming Logic
+**Foco:**
 
-</td>
+`Programming Logic` `Object-Oriented Programming` `Web Development` `Robotics`
 
-<td align="center" width="33%">
+---
 
-### TOOLS
+## Development Tools
+
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-<br><br>
+</p>
 
-Git
-GitHub
-VS Code
-Version Control
+---
 
-</td>
+# ✦ Minha evolução
+
+```text
+              PROGRAMMING
+                   │
+                   ▼
+                ROBOTICS
+                   │
+                   ▼
+          MECHANICAL DESIGN
+                   │
+                   ▼
+                  CAD
+                   │
+                   ▼
+            FRC TEAM 9200
+                   │
+                   ▼
+        FIRST CHAMPIONSHIP 2026
+                   │
+                   ▼
+         ENGINEERING + SOFTWARE
+```
+
+---
+
+# ✦ O que estou aprendendo
+
+<table>
+<tr>
+<th>Área</th>
+<th>Objetivo</th>
+</tr>
+
+<tr>
+<td>Mechanical Design</td>
+<td>Desenvolver mecanismos mais eficientes e confiáveis</td>
+</tr>
+
+<tr>
+<td>Autodesk Inventor</td>
+<td>Aprimorar modelagem e assemblies</td>
+</tr>
+
+<tr>
+<td>Python</td>
+<td>Desenvolver lógica e automações</td>
+</tr>
+
+<tr>
+<td>Java</td>
+<td>Expandir conhecimentos em programação</td>
+</tr>
+
+<tr>
+<td>Robotics</td>
+<td>Unir mecânica, eletrônica e software</td>
+</tr>
+
+<tr>
+<td>Engineering</td>
+<td>Projetar pensando em fabricação e aplicação real</td>
 </tr>
 </table>
 
 ---
 
-# Currently Learning
+# ✦ GitHub em números
 
-<div align="center">
+<p align="center">
 
-<img src="https://img.shields.io/badge/MECHANICAL%20DESIGN-ADVANCING-1F6FEB?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/CAD-ADVANCING-58A6FF?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/PYTHON-LEARNING-3776AB?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/JAVA-LEARNING-ED8B00?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/ROBOTICS-ADVANCING-FF6F00?style=for-the-badge">
-
-</div>
-
----
-
-# My Evolution
-
-```text
-PROGRAMMING
-      │
-      ▼
-   ROBOTICS
-      │
-      ▼
-MECHANICAL DESIGN
-      │
-      ▼
-     CAD
-      │
-      ▼
- FRC TEAM 9200
-      │
-      ▼
-FIRST CHAMPIONSHIP
-      │
-      ▼
-ENGINEERING + SOFTWARE
-```
-
----
-
-# GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rennancampos2001-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rennancampos2001-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennancampos2001-debug&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9">
 
-</div>
+</p>
 
 ---
 
-# Contribution Graph
+# ✦ Mapa de atividade
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rennancampos2001-debug&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true&custom_title=RENNAN%20CAMPOS%20%E2%80%94%20CONTRIBUTIONS">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rennancampos2001-debug&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true&custom_title=RENNAN%20CAMPOS%20%E2%80%94%20ACTIVITY">
 
-</div>
+</p>
 
 ---
 
-# What I'm Building
+# ✦ Contribuições em movimento
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph">
+
+</p>
+
+---
+
+# ✦ Formação & desenvolvimento
+
+| Área                        | Instituição / Contexto   |       Status       |
+| :-------------------------- | :----------------------- | :----------------: |
+| Desenvolvimento de Sistemas | Formação acadêmica       |    Em andamento    |
+| Programação                 | Projetos acadêmicos      | Em desenvolvimento |
+| Robótica                    | FRC Team 9200 — Stardust | Em desenvolvimento |
+| CAD / Mechanical Design     | Projetos de robótica     | Em desenvolvimento |
+| Engenharia                  | Projetos práticos        | Em desenvolvimento |
+
+---
+
+# ✦ Filosofia
 
 ```text
-[✓] Learn Programming
-[✓] Enter Competitive Robotics
-[✓] Work with CAD
-[✓] Develop Mechanical Systems
-[✓] Compete with FRC
-[✓] Study Software Development
-[ ] Build more advanced robots
-[ ] Develop robotics software
-[ ] Combine mechanical engineering + software
-[ ] Create increasingly complex projects
+DESIGN
+   ↓
+BUILD
+   ↓
+TEST
+   ↓
+FAIL
+   ↓
+LEARN
+   ↓
+IMPROVE
+   ↓
+REBUILD
 ```
+
+> **Errar faz parte do processo. O importante é entender o erro e voltar melhor.**
 
 ---
 
-# Contact
+# ✦ O que existe por trás dos projetos
+
+Não quero utilizar o GitHub apenas para armazenar código.
+
+Quero construir um histórico do meu desenvolvimento como profissional:
+
+```text
+PROBLEMA
+   ↓
+PESQUISA
+   ↓
+IDEIA
+   ↓
+PROJETO
+   ↓
+IMPLEMENTAÇÃO
+   ↓
+TESTE
+   ↓
+RESULTADO
+   ↓
+APRENDIZADO
+```
+
+Cada projeto representa uma etapa dessa evolução.
+
+---
+
+# ✦ Repositórios
 
 <div align="center">
 
-<a href="https://github.com/rennancampos2001-debug">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+[![1TERMO](https://img.shields.io/badge/1TERMO-181717?style=for-the-badge\&logo=github)](https://github.com/rennancampos2001-debug/1TERMO)
 
-<a href="mailto:rennancampos2001@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+[![2TERMO](https://img.shields.io/badge/2TERMO-181717?style=for-the-badge\&logo=github)](https://github.com/rennancampos2001-debug/2TERMO)
+
+[![JAVA](https://img.shields.io/badge/MEU%20PRIMEIRO%20COMMIT-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)](https://github.com/rennancampos2001-debug/meu-primeiro-commit)
 
 </div>
 
-<br>
+---
 
-<div align="center">
+# ✦ Vamos construir algo incrível?
 
-**GitHub:** `rennancampos2001-debug`
+Estou sempre buscando aprender mais sobre **robótica, CAD, engenharia, programação e desenvolvimento de sistemas**.
 
-**Email:** `rennancampos2001@gmail.com`
+Meu objetivo é continuar evoluindo, participar de projetos cada vez maiores e combinar diferentes áreas da tecnologia para criar soluções reais.
 
-**LinkedIn:** Coming soon
+<p align="center">
 
-</div>
+**EXPLORE. LEARN. DESIGN. BUILD. IMPROVE.**
+
+</p>
 
 ---
 
@@ -546,8 +439,16 @@ ENGINEERING + SOFTWARE
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer&animation=fadeIn">
 
-### LEARN • DESIGN • BUILD • COMPETE • EVOLVE
+# RENNAN CAMPOS
 
-<sub>Mechanical Design × Robotics × Programming</sub>
+**Robot Designer • CAD • Robotics • Engineering • Programming**
+
+<br>
+
+`FRC Team 9200 — Stardust`
+
+<br><br>
+
+**LEARN • DESIGN • BUILD • COMPETE • EVOLVE**
 
 </div>
