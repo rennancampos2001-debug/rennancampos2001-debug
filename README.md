@@ -2,30 +2,26 @@
   <img src="./assets/Banner.png" width="100%" alt="Rennan Campos — Robot Designer">
 </p>
 
-<br>
-
-<h1 align="center">
-  RENNAN CAMPOS
-</h1>
-
 <p align="center">
-  <strong>ROBOT DESIGNER • CAD • ROBOTICS • PROGRAMMING</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=ROBOT+DESIGNER;CAD+%7C+ROBOTICS+%7C+PROGRAMMING;FRC+TEAM+9200+%E2%80%94+STARDUST;MECHANICAL+DESIGN+%7C+ENGINEERING" alt="Typing animation">
 </p>
 
 <p align="center">
-  FRC Team 9200 — Stardust • Mechanical Design • Programming
+  <img src="https://img.shields.io/badge/ROBOTICS-ENGINEERING-1f6feb?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CAD-MECHANICAL%20DESIGN-555555?style=for-the-badge">
+  <img src="https://img.shields.io/badge/FRC-TEAM%209200-ff6f00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/BRAZIL-009c3b?style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Robotics-Engineering-1f6feb?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CAD-Mechanical%20Design-555555?style=for-the-badge">
-  <img src="https://img.shields.io/badge/FRC-Team%209200-ff6f00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Brazil-🇧🇷-009c3b?style=for-the-badge">
+  <a href="https://github.com/rennancampos2001-debug">
+    <img src="https://komarev.com/ghpvc/?username=rennancampos2001-debug&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS">
+  </a>
 </p>
 
 ---
 
-## About Me
+# About Me
 
 I'm a technology student focused on **robotics, mechanical design, CAD and programming**.
 
@@ -35,21 +31,47 @@ My main interests are designing mechanisms, solving engineering problems and tra
 
 I'm also expanding my programming skills in **Python and Java**, with the goal of combining mechanical engineering and software development in robotics.
 
-> **Design. Build. Test. Improve.**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&section=header">
+</p>
 
----
+# Quick Profile
 
-## Quick Profile
+<table align="center">
+<tr>
+<td align="center" width="180">
 
-| Area        | Focus                          |
-| ----------- | ------------------------------ |
-| Role        | Robot Designer                 |
-| Engineering | Mechanical Design & CAD        |
-| Robotics    | FRC                            |
-| Team        | FRC Team 9200 — Stardust       |
-| Programming | Python & Java                  |
-| CAD         | Autodesk Inventor & SolidWorks |
-| Location    | Brazil                         |
+### ROLE
+
+Robot Designer
+
+</td>
+
+<td align="center" width="180">
+
+### FOCUS
+
+Mechanical Design
+
+</td>
+
+<td align="center" width="180">
+
+### ROBOTICS
+
+FRC
+
+</td>
+
+<td align="center" width="180">
+
+### LOCATION
+
+Brazil
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -73,25 +95,72 @@ I work primarily with **robot design and mechanical development**, using CAD to 
 
 <br>
 
-### 2026 FIRST Championship
+<p align="center">
+  <img src="./assets/robot.gif" width="500" alt="FRC Robot">
+</p>
 
-**FRC Team 9200 — Stardust**
+<p align="center">
+  <sub>FRC Team 9200 — Stardust</sub>
+</p>
 
-|                       |                            |
-| --------------------- | -------------------------- |
-| Team                  | FRC 9200 — Stardust        |
-| Season                | 2026                       |
-| Regional              | Limeira, São Paulo, Brazil |
-| Championship          | FIRST Championship 2026    |
-| Championship Location | Houston, Texas, USA        |
+---
+
+# 2026 FIRST Championship
+
+<table align="center">
+<tr>
+<td align="center">
+
+**TEAM**
+
+<br>
+
+FRC Team 9200 — Stardust
+
+</td>
+
+<td align="center">
+
+**REGIONAL**
+
+<br>
+
+Limeira, São Paulo, Brazil
+
+</td>
+
+<td align="center">
+
+**CHAMPIONSHIP**
+
+<br>
+
+FIRST Championship 2026
+
+</td>
+
+<td align="center">
+
+**LOCATION**
+
+<br>
+
+Houston, Texas, USA
+
+</td>
+</tr>
+</table>
 
 ---
 
 # Awards & Recognition
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CREATIVITY%20AWARD-Regional%20Brazil%20%2F%20SESI%20Osasco-gold?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CREATIVITY%20AWARD-Festival%20SESI%20de%20Educação-gold?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CREATIVITY%20AWARD-REGIONAL%20BRAZIL%20%2F%20SESI%20OSASCO-gold?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CREATIVITY%20AWARD-FESTIVAL%20SESI%20DE%20EDUCAÇÃO-gold?style=for-the-badge">
 </p>
 
 ---
@@ -100,29 +169,38 @@ I work primarily with **robot design and mechanical development**, using CAD to 
 
 Mechanical design is one of my main technical focuses.
 
-### Software
+## Software
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Autodesk%20Inventor-000000?style=for-the-badge&logo=autodesk&logoColor=white">
   <img src="https://img.shields.io/badge/SolidWorks-E31837?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
 </p>
 
-### Focus Areas
+## Focus Areas
 
 ```text
-3D Modeling
-     │
-     ├── Assemblies
-     │
-     ├── Mechanism Development
-     │
-     ├── Prototyping
-     │
-     ├── Design Iteration
-     │
-     ├── Manufacturing
-     │
-     └── Robot Integration
+3D MODELING
+      │
+      ▼
+MECHANISM DEVELOPMENT
+      │
+      ▼
+ASSEMBLIES
+      │
+      ▼
+PROTOTYPING
+      │
+      ▼
+TESTING
+      │
+      ▼
+DESIGN ITERATION
+      │
+      ▼
+MANUFACTURING
+      │
+      ▼
+ROBOT INTEGRATION
 ```
 
 > My goal is not only to create models that look good, but to develop designs that can actually be **manufactured, assembled, tested and improved**.
@@ -132,6 +210,10 @@ Mechanical design is one of my main technical focuses.
 # Featured Projects
 
 ## Stardust 9200 — 2026 Robot
+
+<p align="center">
+  <img src="./assets/stardust-robot.gif" width="700" alt="Stardust 9200 Robot">
+</p>
 
 Mechanical design and CAD development for the **2026 FRC robot**.
 
@@ -143,12 +225,7 @@ Mechanical design and CAD development for the **2026 FRC robot**.
 
 CAD studies and mechanical projects focused on:
 
-* Robotics
-* Mechanisms
-* Mechanical Engineering
-* CAD
-* Product Development
-* Manufacturing
+`Robotics` `Mechanisms` `CAD` `Engineering` `Manufacturing`
 
 **Projects coming soon.**
 
@@ -166,33 +243,27 @@ Programming projects developed while studying software development and programmi
 
 I'm currently expanding my programming skills with a focus on **robotics and software development**.
 
-### Languages
+## Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html" alt="Programming languages">
 </p>
 
-### Development Tools
+## Development Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools">
 </p>
 
 ---
 
 # Tech Stack
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" align="center">
+<td align="center" width="50%">
 
-### CAD & Engineering
-
-<br>
+## CAD & Engineering
 
 `Autodesk Inventor`
 
@@ -206,11 +277,9 @@ I'm currently expanding my programming skills with a focus on **robotics and sof
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
-### Programming
-
-<br>
+## Programming
 
 `Python`
 
@@ -230,68 +299,49 @@ I'm currently expanding my programming skills with a focus on **robotics and sof
 
 # Currently Learning
 
-```text
-[■■■■■■■■■■■■■■■■░░░░]  Autodesk Inventor
-[■■■■■■■■■■■■■■░░░░░░░]  Mechanical Design
-[■■■■■■■■■■■■░░░░░░░░░]  Engineering Documentation
-[■■■■■■■■■■░░░░░░░░░░░░]  Python
-[■■■■■■■■░░░░░░░░░░░░░░]  Java
-[■■■■■■■■■■■■░░░░░░░░░]  Git & GitHub
-[■■■■■■■■■■░░░░░░░░░░░]  Robotics Programming
-[■■■■■■■■■■■■░░░░░░░░░]  Manufacturing-oriented Design
-```
+<p align="center">
+  <img src="https://progress-bar.dev/85/?title=Autodesk%20Inventor&width=500&color=58A6FF">
+</p>
+
+<p align="center">
+  <img src="https://progress-bar.dev/80/?title=Mechanical%20Design&width=500&color=1F6FEB">
+</p>
+
+<p align="center">
+  <img src="https://progress-bar.dev/65/?title=Python&width=500&color=3776AB">
+</p>
+
+<p align="center">
+  <img src="https://progress-bar.dev/55/?title=Java&width=500&color=ED8B00">
+</p>
+
+<p align="center">
+  <img src="https://progress-bar.dev/70/?title=Robotics%20Programming&width=500&color=FF6F00">
+</p>
 
 ---
 
 # My Journey
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=100&text=PROGRAMMING%20%E2%86%92%20ROBOTICS%20%E2%86%92%20CAD%20%E2%86%92%20FRC&fontColor=58A6FF&fontSize=22&animation=fadeIn">
+</p>
+
 ```text
-                         ┌──────────────────┐
-                         │    PROGRAMMING   │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │     ROBOTICS     │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                    ┌──────────────────────────┐
-                    │   MECHANICAL DESIGN      │
-                    └────────────┬─────────────┘
-                                 │
-                                 ▼
-                         ┌──────────────────┐
-                         │       CAD        │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                       ┌────────────────────┐
-                       │   FRC TEAM 9200    │
-                       └──────────┬─────────┘
-                                  │
-                                  ▼
-                   ┌──────────────────────────┐
-                   │ FIRST CHAMPIONSHIP 2026 │
-                   └────────────┬─────────────┘
-                                │
-                                ▼
-                    ┌────────────────────────┐
-                    │ ENGINEERING + SOFTWARE │
-                    └────────────────────────┘
+PROGRAMMING
+     ↓
+ROBOTICS
+     ↓
+MECHANICAL DESIGN
+     ↓
+CAD
+     ↓
+FRC TEAM 9200
+     ↓
+FIRST CHAMPIONSHIP 2026
+     ↓
+ENGINEERING + SOFTWARE
 ```
-
----
-
-# GitHub
-
-I'm building this profile as a technical portfolio focused on:
-
-**Robotics • CAD • Engineering • Programming**
-
-The goal is to document not only the final result, but also the **design process, iterations, problems and solutions** behind each project.
-
-Every project is part of the process of becoming a better engineer and developer.
 
 ---
 
@@ -299,6 +349,7 @@ Every project is part of the process of becoming a better engineer and developer
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=rennancampos2001-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9">
+
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennancampos2001-debug&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9">
 </p>
 
@@ -316,32 +367,32 @@ Every project is part of the process of becoming a better engineer and developer
 
 <p align="center">
 
-**GitHub**
+<a href="https://github.com/rennancampos2001-debug">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-`renancampos2001-debug`
+<a href="mailto:rennancampos2001@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-<br>
+</p>
 
-**Email**
-
-`rennancampos2001@gmail.com`
-
-<br>
-
-**LinkedIn**
-
-`Coming soon`
-
+<p align="center">
+  LinkedIn — Coming soon
 </p>
 
 ---
 
 <p align="center">
-
-### LEARN • DESIGN • BUILD • COMPETE • EVOLVE
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer&animation=fadeIn">
 </p>
 
 <p align="center">
-  <sub>Mechanical Design × Robotics × Programming</sub>
+
+<strong>LEARN • DESIGN • BUILD • COMPETE • EVOLVE</strong>
+
+<br>
+
+<sub>Mechanical Design × Robotics × Programming</sub>
+
 </p>
